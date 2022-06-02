@@ -1,7 +1,7 @@
 # EcoDs18b20Advanced
  DS18B20 Library based on Arduino-Temperature-Control-Library  lib
 
-That library does not work yet. It's for now a exercice...
+That library does not work yet. It's for now an exercise...
 
 ## License
 
