@@ -5,7 +5,7 @@
 */
 
 #include "Arduino.h"
-#include "Ecods18b20.h"
+#include "Ecods18b20Advanced.h"
 
 
 // DSROM FIELDS

@@ -1,7 +1,7 @@
 
 
-#ifndef Ecods18b20_h
-#define Ecods18b20_h
+#ifndef Ecods18b20Advanced_h
+#define Ecods18b20Advanced_h
 
 #include <OneWire.h>
 
